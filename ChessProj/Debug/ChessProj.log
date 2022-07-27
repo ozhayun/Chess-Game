@@ -1,0 +1,15 @@
+﻿  ChessFunction.c
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(279,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(281,93): warning C4047: 'function': 'chessPos (*)' differs in levels of indirection from 'chessPos'
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(281,90): warning C4024: 'buildTreeHelper': different types for formal and actual parameter 2
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(527,8): warning C4101: 'tempByteArr': unreferenced local variable
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(525,12): warning C4101: 'numOfPosition': unreferenced local variable
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(526,6): warning C4101: 'numOfBytes': unreferenced local variable
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(756,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(860,27): warning C4047: 'function': 'char *' differs in levels of indirection from 'chessPos (*)'
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(860,23): warning C4024: 'playMenu': different types for formal and actual parameter 2
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(929,39): warning C4047: 'function': 'chessPos (*)' differs in levels of indirection from 'char *'
+C:\Users\Meital\Downloads\ChessProj\ChessProj\ChessProj\ChessFunction.c(929,36): warning C4024: 'findAllPossibleKnightPaths': different types for formal and actual parameter 1
+  ChessMain.c
+  Generating Code...
+  ChessProj.vcxproj -> C:\Users\Meital\Downloads\ChessProj\ChessProj\Debug\ChessProj.exe
